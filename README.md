@@ -1,5 +1,6 @@
 # 🛡️ ChurnGuard Pro: AI-Powered Customer Retention Analytics
-
+> **Developed for:** Afynix Digital  
+> **Objective:** Reduce customer attrition through predictive modeling and real-time risk assessment.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
